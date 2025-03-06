@@ -21,7 +21,9 @@ public class inheritance2{
    }
   }
 // multiple inheritance 2 parent 1 child
-interface parent1{
+interface parent1{                            //inter face is use its default act like abstract if method not give body method body give onther class
+                                              //inter face any variable create does note change value
+                                              //inter face ku direct object create panna mudhiyathu
 int money=4500;
 }
 interface parent2{
